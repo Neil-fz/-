@@ -1,0 +1,27 @@
+{
+    "userName":  "2505452208",
+    "password":  "",
+    "passwordEnc":  "01000000d08c9ddf0115d1118c7a00c04fc297eb01000000f1de0421d7a6754383b791fba3024b5d00000000020000000000106600000001000020000000d50e13fa3ae378dddd58af6b19f4d978b7a55c6a6b53a684bd64e57553dc4cb0000000000e8000000002000020000000ff6543f3836bf5f3b45d89b509f620fb416aa752cf3c1cb43475f67c59d8c90d20000000e6439a9c5753584a19126bf9447fac685d05b7527a80020ee38d066a5820251a400000000322fae170b3287334365b06f6f516a27026871edf91d578243866c7abd1e3b37c2f6f8268932e6a2bdc8b472c63acf0b9ef3e3a1f7162fb2d4ea950931278e2",
+    "operator":  "dx",
+    "operatorSuffix":  {
+                           "local":  "@gxylocal",
+                           "yd":  "@gxyyd",
+                           "lt":  "@gxylt",
+                           "dx":  "@gxydx"
+                       },
+    "portalHost":  "http://211.69.15.10:6060",
+    "wlanacname":  "HAIT-SR8808",
+    "wlanuserip":  "",
+    "enforceSsid":  true,
+    "ssidPattern":  "HAIT-Student*",
+    "checkIntervalSeconds":  60,
+    "retryIntervalSeconds":  10,
+    "maxRetryIntervalSeconds":  180,
+    "wrongPasswordBackoffSeconds":  300,
+    "onlineCheckUrls":  [
+                            "http://connect.rom.miui.com/generate_204",
+                            "http://www.msftconnecttest.com/connecttest.txt",
+                            "http://www.baidu.com"
+                        ],
+    "logRetentionDays":  14
+}
